@@ -1,9 +1,10 @@
 name: Daily quotes
 
-# Trigger the workflow on a schedule, every 5 minutes
+# Trigger the workflow on a schedule
 on:
   schedule:
-    - cron: '*/5 * * * *' 
+    - cron: "0 1 * * *"
+    - cron: "0 12 * * *"
 
 # Define the jobs to run
 jobs:
