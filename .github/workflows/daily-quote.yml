@@ -1,0 +1,54 @@
+name: Daily quotes
+
+# Trigger the workflow on a schedule, every 5 minutes
+on:
+  schedule:
+    - cron: '*/5 * * * *' 
+
+# Define the jobs to run
+jobs:
+  # This job will fetch a quote and update the README file
+  commit:
+    # Use the latest Ubuntu image as the runner environment
+    runs-on: ubuntu-latest
+
+    # Allow the workflow to push changes to the repository
+    permissions:
+      contents: write
+
+    # Define the steps to execute
+    steps:
+      # Check out the repository code so that the workflow can access it
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Install jq to process JSON data
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      # Fetch a random quote from the Quotable API
+      - name: Get quote and timestamp
+        id: get_quote
+        run: |
+          QUOTE_DATA=$(curl -s https://api.quotable.io/random)
+          QUOTE=$(echo "$QUOTE_DATA" | jq -r '.content')
+          AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.author')
+          TIMESTAMP=$(date +'%B %d, %Y at %I:%M %p')
+
+          # Store quote, author and timestamp in the environment variables 
+          echo "quote=$QUOTE" >> $GITHUB_OUTPUT
+          echo "author=$AUTHOR" >> $GITHUB_OUTPUT
+          echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
+      
+      # Update the README.md file with the quote, author, and timestamp
+      - name: Update README.md
+        run: |
+          echo "# daily-quotes" > README.md
+          echo "[![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>" >> README.md
+          echo "${{ steps.get_quote.outputs.timestamp }}: \"${{ steps.get_quote.outputs.quote }}\" - ${{ steps.get_quote.outputs.author }}" >> README.md
+
+      # Commit the changes to the repository
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4.16.0
+        with:
+          commit_message: 📖 Update daily quote
