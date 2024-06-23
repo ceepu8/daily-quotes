@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-June 22, 2024 at 12:08 PM: "Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you." - Julie Morgenstern
+June 23, 2024 at 02:03 AM: "If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own." - Johann Wolfgang von Goethe
