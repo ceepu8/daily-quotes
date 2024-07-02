@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-July 01, 2024 at 12:11 PM: "There is never enough time to do everything, but there is always enough time to do the most important thing." - Brian Tracy
+July 02, 2024 at 02:00 AM: "It is only when the mind and character slumber that the dress can be seen." - Ralph Waldo Emerson
