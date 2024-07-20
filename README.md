@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-July 19, 2024 at 12:10 PM: "Technology is teaching us to be human again." - Simon Mainwaring
+July 20, 2024 at 01:59 AM: "Technological progress has merely provided us with more efficient means for going backwards." - Aldous Huxley
