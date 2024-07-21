@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-July 21, 2024 at 02:06 AM: "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself." - Henry Miller
+July 21, 2024 at 12:10 PM: "Setting goals is the first step in turning the invisible into the visible." - Tony Robbins
