@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-July 22, 2024 at 12:11 PM: "If the stars should appear but one night every thousand years how man would marvel and adore." - Ralph Waldo Emerson
+July 23, 2024 at 02:02 AM: "Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step." - Laozi
