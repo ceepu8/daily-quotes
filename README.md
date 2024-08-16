@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-August 15, 2024 at 12:11 PM: "Experience is not what happens to a man. It is what a man does with what happens to him." - Aldous Huxley
+August 16, 2024 at 02:03 AM: "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things." - Leonardo da Vinci
