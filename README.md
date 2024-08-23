@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-August 22, 2024 at 12:11 PM: "Love is flower like; Friendship is like a sheltering tree." - Samuel Taylor Coleridge
+August 23, 2024 at 02:04 AM: "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way." - Wayne Dyer
