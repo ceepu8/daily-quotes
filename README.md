@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-September 08, 2024 at 12:10 PM: "I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be." - Ken Venturi
+September 09, 2024 at 02:13 AM: "It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it." - John Steinbeck
