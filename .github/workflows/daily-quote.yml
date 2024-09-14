@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: "0 1 * * *"
     - cron: "0 12 * * *"
-    - cron: "15 23 * * *"
+    - cron: "25 16 * * *"
 
 # Define the jobs to run
 jobs:
