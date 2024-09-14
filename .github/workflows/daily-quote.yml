@@ -31,8 +31,8 @@ jobs:
       - name: Get quote and timestamp
         id: get_quote
         run: |
-          QUOTE_DATA=$(curl -s https://api.quotable.io/random)
-          QUOTE=$(echo "$QUOTE_DATA" | jq -r '.content')
+          QUOTE_DATA=$(curl -s https://dummyjson.com/quotes/random)
+          QUOTE=$(echo "$QUOTE_DATA" | jq -r '.quote')
           AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.author')
           TIMESTAMP=$(date +'%B %d, %Y at %I:%M %p')
 
@@ -40,7 +40,7 @@ jobs:
           echo "quote=$QUOTE" >> $GITHUB_OUTPUT
           echo "author=$AUTHOR" >> $GITHUB_OUTPUT
           echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
-      
+
       # Update the README.md file with the quote, author, and timestamp
       - name: Update README.md
         run: |
