@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-September 19, 2024 at 02:13 AM: "One Of The Greatest Diseases Is To Be Nobody To Anybody." - Mother Teresa
+September 19, 2024 at 12:11 PM: "The criterion of action is that todays work should not be deferred till the following day." - Umar ibn Al-Khattāb (R.A)
