@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-October 14, 2024 at 04:40 PM: "The Hunger For Love Is Much More Difficult To Remove Than The Hunger For Bread." - Mother Teresa
+October 15, 2024 at 02:17 AM: "Everyone has been made for some particular work, and the desire for that work has been put in every heart." - Rumi
