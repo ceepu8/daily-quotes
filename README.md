@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-October 20, 2024 at 04:37 PM: "You Are Responsible For Your Life. You Can'T Keep Blaming Somebody Else For Your Dysfunction. Life Is Really About Moving On." - Oprah Winfrey
+October 21, 2024 at 02:19 AM: "When your mother dies, it really hurts. But with time, you get used to it. That's nature's way." - Muhammad Ali
