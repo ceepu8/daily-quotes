@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-November 10, 2024 at 02:18 AM: "Nations Are Born In The Hearts Of Poets, They Prosper And Die In The Hands Of Politicians." - Muhammad Iqbal
+November 10, 2024 at 12:11 PM: "Do not let your difficulties fill you with anxiety, after all it is only in the darkest nights that stars shine more brightly." - Ali ibn Abi Talib (R.A)
