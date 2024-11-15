@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-November 14, 2024 at 04:41 PM: "Sometimes the people with the worst past, create the best future." - Umar ibn Al-Khattāb (R.A)
+November 15, 2024 at 02:22 AM: "I Like To Listen. I Have Learned A Great Deal From Listening Carefully. Most People Never Listen." - Ernest Hemingway
