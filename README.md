@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-December 21, 2024 at 04:36 PM: "Parkinson's is my toughest fight. No, it doesn't hurt. It's hard to explain. I'm being tested to see if I'll keep praying, to see if I'll keep my faith. All great people are tested by God." - Muhammad Ali
+December 22, 2024 at 02:21 AM: "Perfecting one's intellect causes one to speak less, and those words spoken will be adorned with wisdom." - Ali ibn Abi Talib (R.A)
