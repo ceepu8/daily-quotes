@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-January 04, 2025 at 12:11 PM: "I Dream Of An Africa Which Is In Peace With Itself." - Nelson Mandela
+January 04, 2025 at 04:36 PM: "Indignation Is A Submission Of Our Thoughts, But Not Of Our Desires." - Bertrand Russell
