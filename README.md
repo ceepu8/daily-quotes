@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-January 14, 2025 at 04:38 PM: "If You Can'T Fly Then Run, If You Can'T Run Then Walk, If You Can'T Walk Then Crawl, But Whatever You Do You Have To Keep Moving Forward." - Martin Luther King  Jr.
+January 15, 2025 at 02:12 AM: "Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even." - Muhammad Ali
