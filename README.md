@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-January 18, 2025 at 04:34 PM: "When We Lose One Blessing, Another Is Often Most Unexpectedly Given In Its Place." - C. S. Lewis
+January 19, 2025 at 02:17 AM: "Anger Is Never Without A Reason, But Seldom With A Good One." - Benjamin Franklin
