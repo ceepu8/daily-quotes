@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-January 19, 2025 at 04:34 PM: "Fasting is the first principle of medicine; fast and see the strength of the spirit reveal itself." - Rumi
+January 20, 2025 at 02:14 AM: "Being The Richest Man In The Cemetery Doesn'T Matter To Me. Going To Bed At Night Saying We'Ve Done Something Wonderful, That'S What Matters To Me." - Steve Jobs
