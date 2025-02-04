@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-February 04, 2025 at 02:12 AM: "Who do you think's better looking people in the north or people in the south?" - Umar ibn Al-Khattāb (R.A)
+February 04, 2025 at 12:13 PM: "I'm young, I'm handsome, I'm fast, I'm pretty, and can't possibly be beat. They must fall in the round I call." - Muhammad Ali
