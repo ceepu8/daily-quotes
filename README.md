@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-February 14, 2025 at 04:38 PM: "Failure Is A Detour, Not A Dead-End Street." - Zig Ziglar
+February 15, 2025 at 02:13 AM: "I Want You To Be Concerned About Your Next Door Neighbor. Do You Know Your Next Door Neighbor?" - Mother Teresa
