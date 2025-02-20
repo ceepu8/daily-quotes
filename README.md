@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-February 19, 2025 at 04:39 PM: "Convergence of our views on global trade issues under the WTO and our common resolve to combat terrorism provide a valuable base for mutual understanding." - Abdul Kalam
+February 20, 2025 at 02:15 AM: "Happiness comes towards those which believe in him." - Ali ibn Abi Talib (R.A)
