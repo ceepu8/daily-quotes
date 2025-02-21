@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-February 21, 2025 at 02:16 AM: "India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system." - Abdul Kalam
+February 21, 2025 at 12:13 PM: "There Cannot Be A God Because If There Were One, I Could Not Believe That I Was Not He." - Friedrich Nietzsche
