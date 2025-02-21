@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-February 21, 2025 at 12:13 PM: "There Cannot Be A God Because If There Were One, I Could Not Believe That I Was Not He." - Friedrich Nietzsche
+February 21, 2025 at 04:38 PM: "Respond to every call that excites your spirit." - Rumi
