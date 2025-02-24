@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-February 23, 2025 at 04:35 PM: "The Way To Get Started Is To Quit Talking And Begin Doing." - Walt Disney
+February 24, 2025 at 02:19 AM: "If they can make penicillin out of moldy bread, then they can sure make something out of you." - Muhammad Ali
