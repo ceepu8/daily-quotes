@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-March 13, 2025 at 04:42 PM: "Eros Will Have Naked Bodies; Friendship Naked Personalities." - C. S. Lewis
+March 14, 2025 at 02:20 AM: "Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity." - Abdul Kalam
