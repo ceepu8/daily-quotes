@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-March 20, 2025 at 12:14 PM: "Run away from greatness and greatness will follow you." - Abu Bakr (R.A)
+March 20, 2025 at 04:42 PM: "When you seek advice, do not withhold any facts from the person whose advice you seek." - Abu Bakr (R.A)
