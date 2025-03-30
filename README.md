@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-March 29, 2025 at 04:40 PM: "Conduct, Which Involves A Decision Of The Ultimate Fate Of The Agent Cannot Be Based On Illusions." - Muhammed Iqbal
+March 30, 2025 at 02:37 AM: "I Went To The Bank And Proposed That They Lend Money To The Poor People. The Bankers Almost Fell Over." - Muhammad Yunus
