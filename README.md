@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-April 07, 2025 at 12:14 PM: "There Is No Labor A Person Does That Is Undignified; If They Do It Right." - Bill Cosby
+April 07, 2025 at 04:42 PM: "You Cannot Escape The Responsibility Of Tomorrow By Evading It Today." - Abraham Lincoln
