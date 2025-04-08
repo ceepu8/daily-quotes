@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-April 07, 2025 at 04:42 PM: "You Cannot Escape The Responsibility Of Tomorrow By Evading It Today." - Abraham Lincoln
+April 08, 2025 at 02:24 AM: "Allah's Generosity is connected to gratitude, and gratitude is linked to increase in His generosity. The generosity of Allah will not stop increasing unless the gratitude of the servant ceases." - Ali ibn Abi Talib (R.A)
