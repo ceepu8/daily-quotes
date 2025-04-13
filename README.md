@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-April 12, 2025 at 04:38 PM: "Patience is the healthiest ingredient of our life." - Umar ibn Al-Khattāb (R.A)
+April 13, 2025 at 03:42 AM: "I'll destroy you. I am the master of disaster." - Muhammad Ali
