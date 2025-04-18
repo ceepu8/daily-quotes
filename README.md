@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-April 17, 2025 at 04:43 PM: "When we practice loving kindness and compassion we are the first ones to profit." - Rumi
+April 18, 2025 at 02:24 AM: "Forget safety. Live where you fear to live. Destroy your reputation. Be notorious." - Rumi
