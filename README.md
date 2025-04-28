@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-April 28, 2025 at 02:40 AM: "The Will To Win, The Desire To Succeed, The Urge To Reach Your Full Potential... These Are The Keys That Will Unlock The Door To Personal Excellence." - Confucius
+April 28, 2025 at 12:14 PM: "Without Freedom, No Art; Art Lives Only On The Restraints It Imposes On Itself, And Dies Of All Others." - Albert Camus
