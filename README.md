@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-May 02, 2025 at 04:42 PM: "He Who Avoids Complaint Invites Happiness." - Abu Bakr
+May 03, 2025 at 02:26 AM: "I fear the day when the Kuffar are proud of their falsehood, and the Muslims are shy of their faith." - Umar ibn Al-Khattāb (R.A)
