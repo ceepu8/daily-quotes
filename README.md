@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-May 08, 2025 at 04:43 PM: "Your heart is the size of an ocean. Go find yourself in its hidden depths." - Rumi
+May 09, 2025 at 02:39 AM: "An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last." - Winston Churchill
