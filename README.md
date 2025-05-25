@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-May 24, 2025 at 04:40 PM: "We should remember that there are nations which meet more than 30 to 60% of their power requirements through the nuclear power system." - Abdul Kalam
+May 25, 2025 at 02:49 AM: "Bear sorrows and calamities patiently, otherwise you will never be happy." - Ali ibn Abi Talib (R.A)
