@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-May 27, 2025 at 04:44 PM: "Does Wisdom Perhaps Appear On The Earth As A Raven Which Is Inspired By The Smell Of Carrion?" - Friedrich Nietzsche
+May 28, 2025 at 02:42 AM: "You Don'T Have To See The Whole Staircase, Just Take The First Step." - Martin Luther King  Jr.
