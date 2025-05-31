@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-May 30, 2025 at 04:43 PM: "George Washington, As A Boy, Was Ignorant Of The Commonest Accomplishments Of Youth. He Could Not Even Lie." - Mark Twain
+May 31, 2025 at 02:38 AM: "Youth is not restored by the dyeing of your hair." - Abu Bakr (R.A)
