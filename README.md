@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-July 01, 2025 at 04:45 PM: "God gave me this illness to remind me that I'm not Number One; He is." - Muhammad Ali
+July 02, 2025 at 02:47 AM: "To Improve Is To Change; To Be Perfect Is To Change Often." - Winston Churchill
