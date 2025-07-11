@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-July 10, 2025 at 04:46 PM: "Don't engage your heart in grief over the past or you wont be ready for what is coming." - Ali ibn Abi Talib (R.A)
+July 11, 2025 at 02:54 AM: "Recitation of the Qur'an without contemplation and thought is futile." - Ali ibn Abi Talib (R.A)
