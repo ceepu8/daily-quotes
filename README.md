@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-August 11, 2025 at 04:47 PM: "Let Me Alone, And Go In Search Of Someone Else." - Ali Ibn Abi Talib
+August 12, 2025 at 02:46 AM: "Allah is the Greatest. I'm just the greatest boxer." - Muhammad Ali
