@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-August 15, 2025 at 04:43 PM: "I believe in the religion of Islam. I believe in Allah and peace." - Muhammad Ali
+August 16, 2025 at 02:42 AM: "You are the soul of the soul of the universe, and your name is Love." - Rumi
