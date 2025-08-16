@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-August 16, 2025 at 02:42 AM: "You are the soul of the soul of the universe, and your name is Love." - Rumi
+August 16, 2025 at 12:14 PM: "The government, whether state or central, is elected. That means we have a responsibility to elect the right kind of leaders." - Abdul Kalam
