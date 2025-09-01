@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-August 31, 2025 at 04:37 PM: "If You Are Out To Describe The Truth, Leave Elegance To The Tailor." - Albert Einstein
+September 01, 2025 at 02:51 AM: "To Improve Is To Change; To Be Perfect Is To Change Often." - Winston Churchill
