@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-October 02, 2025 at 04:40 PM: "When mother is happy, family is happy. When family is happy, nation is happy." - Abdul Kalam
+October 03, 2025 at 02:19 AM: "Everyone who is taken by death asks for more time, while everyone who still has time makes excuses for procrastination." - Ali ibn Abi Talib (R.A)
