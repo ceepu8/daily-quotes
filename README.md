@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-October 03, 2025 at 02:19 AM: "Everyone who is taken by death asks for more time, while everyone who still has time makes excuses for procrastination." - Ali ibn Abi Talib (R.A)
+October 03, 2025 at 12:14 PM: "Familiarity Breeds Contempt - And Children." - Mark Twain
