@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-October 09, 2025 at 02:21 AM: "I Never Did A Day'S Work In My Life. It Was All Fun." - Thomas A. Edison
+October 09, 2025 at 12:15 PM: "I am the greatest. I said that even before I knew I was. Don't tell me I can't do something. Don't tell me it's impossible. Don't tell me I'm not the greatest. I'm the double greatest." - Muhammad Ali
