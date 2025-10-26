@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-October 26, 2025 at 02:40 AM: "The Love Of Heaven Makes One Heavenly." - William Shakespeare
+October 26, 2025 at 12:13 PM: "Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck." - Abdul Kalam
