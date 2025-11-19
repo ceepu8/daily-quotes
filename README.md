@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-November 19, 2025 at 12:16 PM: "Youth is not restored by the dyeing of your hair." - Abu Bakr (R.A)
+November 19, 2025 at 04:45 PM: "This being human is a guest house. Every morning a new arrival. Welcome and entertain them all!" - Rumi
