@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-November 28, 2025 at 04:42 PM: "There is a way between voice and presence, where information flows. In disciplined silence it opens; with wandering talk it closes." - Rumi
+November 29, 2025 at 02:39 AM: "In a competition of love we'll all share in the victory, no matter who comes first." - Muhammad Ali
