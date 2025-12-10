@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-December 10, 2025 at 12:17 PM: "The Object Of The Superior Man Is Truth." - Confucius
+December 10, 2025 at 04:47 PM: "The wiser a man is, the less talkative will he be." - Ali ibn Abi Talib (R.A)
