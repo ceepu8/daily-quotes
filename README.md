@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-December 10, 2025 at 04:47 PM: "The wiser a man is, the less talkative will he be." - Ali ibn Abi Talib (R.A)
+December 11, 2025 at 02:52 AM: "The Only True Wisdom Is In Knowing You Know Nothing." - Socrates
