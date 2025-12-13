@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-December 13, 2025 at 02:43 AM: "Intelligence Is The Wife, Imagination Is The Mistress, Memory Is The Servant." - Victor Hugo
+December 13, 2025 at 12:14 PM: "The worst man is the one who sees himself as the best." - Muhammad Ali
