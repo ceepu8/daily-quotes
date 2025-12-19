@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-December 18, 2025 at 04:49 PM: "No one starts out on top. You have to work your way up." - Muhammad Ali
+December 19, 2025 at 02:51 AM: "All black Americans have slave names. They have white names; names that the slave master has given to them." - Muhammad Ali
