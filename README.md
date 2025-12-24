@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-December 23, 2025 at 04:46 PM: "I'm too fast. I'm too smart. I'm too pretty." - Muhammad Ali
+December 24, 2025 at 02:50 AM: "You Were Born To Win, But To Be A Winner, You Must Plan To Win, Prepare To Win, And Expect To Win." - Zig Ziglar
