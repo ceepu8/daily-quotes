@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-December 28, 2025 at 12:15 PM: "Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed." - Ali Ibn Abi Talib
+December 28, 2025 at 04:43 PM: "The Right Word May Be Effective, But No Word Was Ever As Effective As A Rightly Timed Pause." - Mark Twain
