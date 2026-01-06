@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-January 05, 2026 at 04:46 PM: "Bitterness Is Like Cancer. It Eats..." - Maya Angelou
+January 06, 2026 at 02:56 AM: "English is necessary as at present original works of science are in English. I believe that in two decades times original works of science will start coming out in our languages. Then we can move over like the Japanese." - Abdul Kalam
