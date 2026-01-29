@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-January 29, 2026 at 03:25 AM: "People's hearts are like wild animals. They attach their selves to those that love and train them." - Ali ibn Abi Talib (R.A)
+January 29, 2026 at 12:25 PM: "What One Writer Can Make In The Solitude Of One Room Is Something No Power Can Easily Destroy." - Salman Rushdie
