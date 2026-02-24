@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-February 23, 2026 at 05:33 PM: "If you are born with fame, it is an accident. If you die with fame, it is an achievement." - Abdul Kalam
+February 24, 2026 at 03:35 AM: "Silence gives answers." - Rumi
