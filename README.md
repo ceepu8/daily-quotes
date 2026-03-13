@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-March 13, 2026 at 03:27 AM: "Do not follow vain desires; for verily he who prospers is preserved from lust, greed and anger." - Abu Bakr (R.A)
+March 13, 2026 at 12:27 PM: "I died as a mineral and became a plant, I died as a plant and rose to animal, I died as an animal and I was Man. Why should I fear? When was I less by dying?" - Rumi
