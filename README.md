@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-March 18, 2026 at 05:31 PM: "To be a great champion you must believe you are the best. If you're not, pretend you are." - Muhammad Ali
+March 19, 2026 at 03:39 AM: "History, Despite Its Wrenching Pain, Cannot Be Unlived, But If Faced With Courage, Need Not Be Lived Again." - Maya Angelou
