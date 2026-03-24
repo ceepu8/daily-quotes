@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-March 24, 2026 at 03:33 AM: "We Must Believe That We Are Gifted For Something, And That This Thing, At Whatever Cost, Must Be Attained." - Marie Curie
+March 24, 2026 at 12:37 PM: "Float like a butterfly, sting like a bee." - Muhammad Ali
