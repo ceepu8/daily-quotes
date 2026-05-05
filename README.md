@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-May 04, 2026 at 05:54 PM: "Be like a tree and let the dead leaves drop." - Rumi
+May 05, 2026 at 04:15 AM: "Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too." - Muhammad Ali
