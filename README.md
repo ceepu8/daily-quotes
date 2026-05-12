@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-May 11, 2026 at 06:10 PM: "Educationists should build the capacities of the spirit of inquiry, creativity, entrepreneurial and moral leadership among students and become their role model." - Abdul Kalam
+May 12, 2026 at 04:34 AM: "Live everyday as if it were your last because someday you're going to be right." - Muhammad Ali
