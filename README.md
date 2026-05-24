@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-May 23, 2026 at 05:29 PM: "Do not use the sharpness of your speech on your mother who taught you how to speak." - Ali ibn Abi Talib (R.A)
+May 24, 2026 at 05:00 AM: "Strive Not To Be A Success, But Rather To Be Of Value." - Albert Einstein
