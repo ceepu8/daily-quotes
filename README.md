@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-May 27, 2026 at 05:14 AM: "Do not be deceived by a man's eloquence; rather whoever fulfils trusts and refrains from impugning people's honour is a real man." - Umar ibn Al-Khattāb (R.A)
+May 27, 2026 at 02:45 PM: "If There Is Something To Pardon In Everything, There Is Also Something To Condemn." - Friedrich Nietzsche
