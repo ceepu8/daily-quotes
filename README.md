@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-May 31, 2026 at 01:03 PM: "The criterion of action is that todays work should not be deferred till the following day." - Umar ibn Al-Khattāb (R.A)
+May 31, 2026 at 05:32 PM: "A calamity does not descend except due to a sin and it is not lifted except with repentance." - Ali ibn Abi Talib (R.A)
