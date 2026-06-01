@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-May 31, 2026 at 05:32 PM: "A calamity does not descend except due to a sin and it is not lifted except with repentance." - Ali ibn Abi Talib (R.A)
+June 01, 2026 at 06:01 AM: "He who becomes a Muslim does so in his own interest." - Abu Bakr (R.A)
