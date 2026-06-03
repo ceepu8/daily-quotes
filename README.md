@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-June 02, 2026 at 07:53 PM: "As We Express Our Gratitude, We Must Never Forget That The Highest Appreciation Is Not To Utter Words, But To Live By Them." - John F. Kennedy
+June 03, 2026 at 06:02 AM: "My impression of the American people can be summarized by a quotation from Benjamin Franklin, Those things that hurt instruct! I realized that people in this part of the world meet their problems head on. They attempt to get out of them rather than suffer them." - Abdul Kalam
