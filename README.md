@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-June 16, 2026 at 07:52 PM: "I Like To Listen. I Have Learned A Great Deal From Listening Carefully. Most People Never Listen." - Ernest Hemingway
+June 17, 2026 at 06:10 AM: "Democracy Is When The Indigent, And Not The Men Of Property, Are The Rulers." - Aristotle
