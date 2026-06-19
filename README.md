@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-June 18, 2026 at 06:37 PM: "Doing as others told me, I was Blind. Coming when others called me, I was Lost. Then I left everyone, myself as well. Then I found Everyone, Myself as well." - Rumi
+June 19, 2026 at 06:19 AM: "He Who Angers You Conquers You." - Elizabeth Kenny
