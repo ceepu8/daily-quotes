@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-June 26, 2026 at 01:52 PM: "Parkinson's is my toughest fight. No, it doesn't hurt. It's hard to explain. I'm being tested to see if I'll keep praying, to see if I'll keep my faith. All great people are tested by God." - Muhammad Ali
+June 26, 2026 at 06:05 PM: "A True friend is one who sees a fault, gives you advice and who defends you in your absence." - Ali ibn Abi Talib (R.A)
