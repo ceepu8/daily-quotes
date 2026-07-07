@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-July 06, 2026 at 06:22 PM: "Vanity prevents improvement." - Ali ibn Abi Talib (R.A)
+July 07, 2026 at 04:51 AM: "This is a subtle truth. Whatever you love, you are." - Rumi
