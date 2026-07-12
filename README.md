@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-July 11, 2026 at 05:25 PM: "There is a King Who is aware of every Mask you put on." - Rumi
+July 12, 2026 at 04:24 AM: "Rest but never quit. Even the sun has a sinking spell each evening. But it always rises the next morning. At sunrise, every soul is born again." - Muhammad Ali
