@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-July 21, 2026 at 05:48 PM: "People Always Ask Me, 'Were You Funny As A Child?' Well, No, I Was An Accountant." - Ellen DeGeneres
+July 22, 2026 at 04:15 AM: "I closed my mouth and spoke to you in a hundred silent ways." - Rumi
