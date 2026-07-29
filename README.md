@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-July 29, 2026 at 04:10 AM: "When knowledge is limited - it leads to folly... When knowledge exceeds a certain limit, it leads to exploitation." - Abu Bakr (R.A)
+July 29, 2026 at 01:28 PM: "My Mission In Life Is Not Merely To Survive, But To Thrive; And To Do So With Some Passion, Some Compassion, Some Humor, And Some Style" - Maya Angelou
