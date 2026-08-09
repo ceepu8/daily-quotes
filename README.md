@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-August 08, 2026 at 04:56 PM: "People Must Learn To Hate And If They Can Learn To Hate, They Can Be Taught To Love." - Nelson Mandela
+August 09, 2026 at 03:00 AM: "Let silence take you to the core of life." - Rumi
