@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-August 29, 2026 at 03:46 PM: "He who becomes a Muslim does so in his own interest." - Abu Bakr (R.A)
+August 29, 2026 at 07:26 PM: "I am the greatest, I said that even before I knew I was." - Muhammad Ali
