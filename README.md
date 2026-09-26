@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-September 26, 2026 at 05:53 AM: "Scientific Thought And Its Creation Is The Common And Shared Heritage Of Mankind." - Abdus Salam
+September 26, 2026 at 03:09 PM: "The Past Is A Ghost, The Future A Dream, And All We Ever Have Is Now." - Bill Cosby
