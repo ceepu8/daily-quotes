@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-September 26, 2026 at 07:15 PM: "The word 'Islam' means 'peace.' The word 'Muslim' means 'one who surrenders to God.' But the press makes us seem like haters." - Muhammad Ali
+September 27, 2026 at 06:17 AM: "Courage Is What It Takes To Stand Up And Speak; Courage Is Also What It Takes To Sit Down And Listen." - Winston Churchill
