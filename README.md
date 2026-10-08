@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-October 07, 2026 at 09:22 PM: "Life is balance of holding on and letting go." - Rumi
+October 08, 2026 at 07:00 AM: "When we practice loving kindness and compassion we are the first ones to profit." - Rumi
