@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-October 15, 2026 at 05:35 AM: "I Have Decided To Stick With Love. Hate Is Too Great A Burden To Bear." - Martin Luther King  Jr.
+October 15, 2026 at 03:48 PM: "A Successful Man Is One Who Can Lay A Firm Foundation With The Bricks Others Have Thrown At Him." - David Brinkley
