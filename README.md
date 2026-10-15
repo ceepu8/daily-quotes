@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-October 14, 2026 at 08:14 PM: "If You Judge People, You Have No Time To Love Them." - Mother Teresa
+October 15, 2026 at 05:35 AM: "I Have Decided To Stick With Love. Hate Is Too Great A Burden To Bear." - Martin Luther King  Jr.
