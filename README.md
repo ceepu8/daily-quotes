@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-October 21, 2026 at 05:44 AM: "In Modern War... You Will Die Like A Dog For No Good Reason." - Ernest Hemingway
+October 21, 2026 at 04:09 PM: "In your light I learn how to love. In your beauty, how to make poems. You dance inside my chest where no-one sees you, but sometimes I do, and that sight becomes this art." - Rumi
