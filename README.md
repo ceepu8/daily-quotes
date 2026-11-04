@@ -1,3 +1,3 @@
 # daily-quotes
 [![Daily quotes](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/ceepu8/daily-quotes/actions/workflows/daily-quote.yml)<br/>
-November 03, 2026 at 09:50 PM: "Some Are Born Great, Some Achieve Greatness, And Some Have Greatness Thrust Upon Them." - William Shakespeare
+November 04, 2026 at 07:15 AM: "A developed India by 2020, or even earlier, is not a dream. It need not be a mere vision in the minds of many Indians. It is a mission we can all take up - and succeed." - Abdul Kalam
